@@ -17,3 +17,5 @@ qiskit_terra
 tqdm
 gymnasium
 qiskit-ibmq-provider
+tensorflow
+qualang_tools
